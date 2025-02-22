@@ -83,7 +83,7 @@ test:
 #
 production:
   <<: *default
-  database: placemates_backend_production
+  database: placemates_production
   username: postgres
   password: postgres
 
